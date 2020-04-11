@@ -16,6 +16,8 @@ Some details:
 
     step4_percolation.ipynb perform the percolation on a network made up by (1) potential flow network + (2) the existed bikepaths in Bogota.
 
+    step_5_identify_bike_faciliites.ipynb after getting the final network it determines which edges do not have an existing or projected bicycle facility on them
+
     The latter file communities_table.ipynb is the notebook to generate the figure 7 from the paper.
 
 References:
