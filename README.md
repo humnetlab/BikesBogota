@@ -4,6 +4,8 @@ A data science framework for planning the growth of bicycle infrastructures
 This repository contains code sufficient to replicate all findings from "A data science framework for planning the growth of
 bicycle infrastructures" an in-submission paper on using novel data sources, tools, and methods to identify and prioritize locations where to intervene via properly planned cycling infrastructure.
 
+Link to the paper will be provided soon
+
 Some details:
 
     nodes_all_trips.csv and links_after_rejection.scv are the ODs used as potential demand. These are a filtered version afthe the rejection sampling method described in the paper. The original data was the result from a previous work (​Florez et al., 2017​)
