@@ -4,7 +4,7 @@ A data science framework for planning the growth of bicycle infrastructures
 This repository contains code sufficient to replicate all findings from "A data science framework for planning the growth of
 bicycle infrastructures" an in-submission paper on using novel data sources, tools, and methods to identify and prioritize locations where to intervene via properly planned cycling infrastructure.
 
-Link to the paper will be provided soon
+[Link to the paper](https://www.sciencedirect.com/science/article/pii/S0968090X19306436?dgcid=author)
 
 Some details:
 
